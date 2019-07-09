@@ -1,0 +1,4 @@
+true: package(dynlink), package(camlp4.lib), package(ulex), \
+	package(unix), package(num), package(str), \
+	package(pcre), package(expat), package(curl), \
+	package(cduce), package(js_of_ocaml.ppx)
